@@ -1,7 +1,3 @@
----
----
----
-
 # softbart-mixtures-paper
 
 <!-- badges: start -->
